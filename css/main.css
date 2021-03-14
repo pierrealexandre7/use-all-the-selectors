@@ -1,5 +1,5 @@
 body {
-  backgroung-color: #fdf6e3;
+  background-color: #fdf6e3;
 }
 
 header, footer {
@@ -11,7 +11,7 @@ nav ul {
 }
 
 .logo {
-  text-transform:uppercase;
+  text-transform: uppercase;
 }
 
 .wrapper {
@@ -19,7 +19,7 @@ nav ul {
 }
 
 #contents, #favs, #facts, #types {
-  color: #93a1al;
+  color: #93a1a1;
 }
 
 .wrapper > dfn {
@@ -34,7 +34,7 @@ a:not(.no-highlight) {
   background-color: #719e07;
 }
 
-http://en.wikipedia.org/wiki/Fruit [rel="external"] {
+[http://en.wikipedia.org/wiki/Fruit [rel="external"]] {
   background-color: #2694d8;
 }
 
