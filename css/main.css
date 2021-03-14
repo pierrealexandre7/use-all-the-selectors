@@ -34,7 +34,7 @@ a:not(.no-highlight) {
   background-color: #719e07;
 }
 
-[://en.wikipedia.org/wiki/Fruit[rel*="external"]] {
+a[://en.wikipedia.org/wiki/Fruit[rel*="external"]] {
   background-color: #2694d8;
 }
 
