@@ -34,7 +34,7 @@ a:not(.no-highlight) {
   background-color: #719e07;
 }
 
-a[rel*="external"] {
+a[href*="http://en.wikipedia.org/wiki/Fruit"] {
   background-color: #2694d8;
 }
 
